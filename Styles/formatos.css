@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Open+Sans:wght@400;700&family=Montserrat:ital@1&family=Lato:wght@400&display=swap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+}
+
+p,
+span,
+a,
+li,
+button {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+em {
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+}
+
+.card-text,
+.recipe-list {
+  font-size: 0.9rem;
+  text-align: justify;
+}
+
+.recipe-list {
+  margin-top: 20px;
+}
